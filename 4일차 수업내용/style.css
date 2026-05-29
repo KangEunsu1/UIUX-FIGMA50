@@ -1,0 +1,22 @@
+header {
+height: 400vh;    
+background-color: rgb(230, 230, 230);
+display: flex;
+}
+nav {
+    background-color: rgb(248, 243, 243);
+}
+h1 {
+    background-color: rgb(223, 180, 180);
+}
+.use-box {
+    background-color: rgb(255, 154, 154);
+}
+main {
+    height:400vh ;
+    background-color: rgb(197, 197, 197);
+}
+footer {
+    height: 400vh;
+    background-color: rgb(143, 143, 143);
+}
